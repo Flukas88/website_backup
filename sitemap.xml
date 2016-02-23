@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://luca.lucafrancesca.me/</loc>
+  <lastmod>2015-10-14T08:28:16+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://luca.lucafrancesca.me/who-am-i.html</loc>
+  <lastmod>2015-10-14T08:30:43+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://luca.lucafrancesca.me/author/luca-francesca.html</loc>
+  <lastmod>2015-10-13T22:11:24+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://luca.lucafrancesca.me/index.html</loc>
+  <lastmod>2015-10-14T08:28:16+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://luca.lucafrancesca.me/archives.html</loc>
+  <lastmod>2015-10-14T08:30:10+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://luca.lucafrancesca.me/category/about.html</loc>
+  <lastmod>2015-10-14T08:29:43+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://luca.lucafrancesca.me/tags.html</loc>
+  <lastmod>2015-10-13T22:10:46+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
