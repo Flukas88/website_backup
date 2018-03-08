@@ -1,0 +1,55 @@
+=================================================================
+https://keybase.io/cisco
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lucafrancesca.me
+  * I am cisco (https://keybase.io/cisco) on keybase.
+  * I have a public key ASCi217jnz4GbC_L_gpK_9YBcTp6zvmI7fNQ-MDechFwbAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a2db5ee39f3e066c2fcbfe0a4affd601713a7acef988edf350f8c0de7211706c0a",
+      "host": "keybase.io",
+      "kid": "0120a2db5ee39f3e066c2fcbfe0a4affd601713a7acef988edf350f8c0de7211706c0a",
+      "uid": "185a10996e962c208b6cabde3d3c5f00",
+      "username": "cisco"
+    },
+    "merkle_root": {
+      "ctime": 1520548085,
+      "hash": "5aa6ce8bd75ff0c4e50cacacc52cb12fc142dee9b6c2e02b6c48f88b4d0e114c77e3fa225b218d645d4f4bf348d306cb7f5c9a6f410ab08723df791781cb689c",
+      "hash_meta": "5eec79e260e4c033d851bcfbcc69ad4febd7dcee774a08112c9d943e37337768",
+      "seqno": 2206172
+    },
+    "service": {
+      "hostname": "lucafrancesca.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1520548099,
+  "expire_in": 504576000,
+  "prev": "30f991dabe7a8544a81b384e2c56828d5f6037d23de6a72765e7bf5426c1e303",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgotte458+Bmwvy/4KSv/WAXE6es75iO3zUPjA3nIRcGwKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTJkYjVlZTM5ZjNlMDY2YzJmY2JmZTBhNGFmZmQ2MDE3MTNhN2FjZWY5ODhlZGYzNTBmOGMwZGU3MjExNzA2YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYTJkYjVlZTM5ZjNlMDY2YzJmY2JmZTBhNGFmZmQ2MDE3MTNhN2FjZWY5ODhlZGYzNTBmOGMwZGU3MjExNzA2YzBhIiwidWlkIjoiMTg1YTEwOTk2ZTk2MmMyMDhiNmNhYmRlM2QzYzVmMDAiLCJ1c2VybmFtZSI6ImNpc2NvIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIwNTQ4MDg1LCJoYXNoIjoiNWFhNmNlOGJkNzVmZjBjNGU1MGNhY2FjYzUyY2IxMmZjMTQyZGVlOWI2YzJlMDJiNmM0OGY4OGI0ZDBlMTE0Yzc3ZTNmYTIyNWIyMThkNjQ1ZDRmNGJmMzQ4ZDMwNmNiN2Y1YzlhNmY0MTBhYjA4NzIzZGY3OTE3ODFjYjY4OWMiLCJoYXNoX21ldGEiOiI1ZWVjNzllMjYwZTRjMDMzZDg1MWJjZmJjYzY5YWQ0ZmViZDdkY2VlNzc0YTA4MTEyYzlkOTQzZTM3MzM3NzY4Iiwic2Vxbm8iOjIyMDYxNzJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibHVjYWZyYW5jZXNjYS5tZSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIwNTQ4MDk5LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjMwZjk5MWRhYmU3YTg1NDRhODFiMzg0ZTJjNTY4MjhkNWY2MDM3ZDIzZGU2YTcyNzY1ZTdiZjU0MjZjMWUzMDMiLCJzZXFubyI6MTMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAgcztNQOsSwm5dtsHCd741nNwlbmgkVZek5GbHCX1l79xCAy/56NzUM21FX6Y5Sqrhoqgg9kGodNRCof+xUgdBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGOvyBnQpCEYuyAHwi4ZcublrjInwuzNLzC7sMcE0uw9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cisco
+
+==================================================================
